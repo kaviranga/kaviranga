@@ -1,5 +1,12 @@
 ### Hi there I'm Duminda Kaviranga Gunawardhana 👋
 
+## [![kaviranga's header](https://github.com/kaviranga/kaviranga/blob/main/images/edited_header.png)](https://github.com/kaviranga/kaviranga/)
+
+<img align="left" src=https://github-readme-stats.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue" />
+
+
 <!--
 **kaviranga/kaviranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Kaviranga's github stats](https://github-readme-stats.vercel.app/api?username=kaviranga&theme=vue&show_icons=true)
