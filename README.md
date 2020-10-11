@@ -2,9 +2,12 @@
 
 ## [![kaviranga's header](https://github.com/kaviranga/kaviranga/blob/main/images/edited_header.png)](https://github.com/kaviranga/kaviranga/)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue" />
+### Programming languages used for coding
+
+</br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue" />
 
 
 <!--
