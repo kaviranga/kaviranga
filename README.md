@@ -20,6 +20,8 @@
 - NoSQL Databases : MongoDB, Redis
 - BigData : Hadoop, Hive, Spark
 - Server Analytics : Zabbix
+- Task Handler : Zookeeper
+- Load Balancer : Nginx
 
 ------------------------------
 
