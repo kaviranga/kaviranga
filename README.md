@@ -16,9 +16,10 @@
 - Scripting Languages : Ruby, Python, Shell Script, Java Script
 - Web Frameworks : CakePHP, Laravel, Play, ROR
 - Frontend Frameworks : JQuery, Bootstrap, React, Vue
-- Relational Databases : MySQL, PostgeSQL, MSSQL
+- Relational Databases : MySQL, PostgreSQL, MSSQL
 - NoSQL Databases : MongoDB, Redis
 - BigData : Hadoop, Hive, Spark
+- Server Analytics : Zabbix
 
 ------------------------------
 
