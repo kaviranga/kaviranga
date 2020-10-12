@@ -8,9 +8,10 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" />
 
+------------------------------
 
 ### I have worked with
-- OS's : Windows,Linux(Fedora,Ubuntu,Knoppix)
+- Operating Systems's : Windows,Linux(Fedora,Ubuntu,Knoppix)
 - GP Languages : C,C++,Java,PHP
 - Scripting Languages : Ruby,Python,Shell Script,Java Script
 - Web Frameworks : CakePHP,Laravel,Play,ROR
@@ -19,10 +20,7 @@
 - NoSQL Databases : MongoDB,Redis
 - BigData : Hadoop,Hive,Spark
 
-### I'm Capable of 
-- Design and Etch PCB
-- Design and Implement Circuits
-- Create Mechanical Structures
+
 
 <!--
 **kaviranga/kaviranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
