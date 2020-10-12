@@ -11,16 +11,14 @@
 ------------------------------
 
 ### I have worked with
-- Operating Systems's : Windows,Linux(Fedora,Ubuntu,Knoppix)
-- GP Languages : C,C++,Java,PHP
-- Scripting Languages : Ruby,Python,Shell Script,Java Script
-- Web Frameworks : CakePHP,Laravel,Play,ROR
-- Frontend Frameworks : JQuery,Bootstrap,React,Vue
-- Relational Databases : MySQL,PostgeSQL,MSSQL
-- NoSQL Databases : MongoDB,Redis
-- BigData : Hadoop,Hive,Spark
-
-
+- Operating Systems : Windows, Linux 
+- GP Languages : C, C++, Java, PHP
+- Scripting Languages : Ruby, Python, Shell Script, Java Script
+- Web Frameworks : CakePHP, Laravel, Play, ROR
+- Frontend Frameworks : JQuery, Bootstrap, React, Vue
+- Relational Databases : MySQL, PostgeSQL, MSSQL
+- NoSQL Databases : MongoDB, Redis
+- BigData : Hadoop, Hive, Spark
 
 <!--
 **kaviranga/kaviranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
