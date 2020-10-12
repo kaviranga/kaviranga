@@ -8,7 +8,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" />
 
-</br>
 
 ### I have worked with
 - OS's : Windows,Linux(Fedora,Ubuntu,Knoppix)
@@ -19,8 +18,6 @@
 - Relational Databases : MySQL,PostgeSQL,MSSQL
 - NoSQL Databases : MongoDB,Redis
 - BigData : Hadoop,Hive,Spark
-
----------------
 
 ### I'm Capable of 
 - Design and Etch PCB
