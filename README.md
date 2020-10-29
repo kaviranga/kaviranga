@@ -14,7 +14,7 @@
 - Operating Systems : Windows, Linux 
 - GP Languages : C, C++, Java, PHP
 - Scripting Languages : Shell Script, Java Script
-- Web Frameworks : CakePHP, Laravel, Play
+- Web Frameworks : Laravel, Play
 - Frontend Frameworks : JQuery, Bootstrap, React, Vue
 - Relational Databases : MySQL, PostgreSQL, MSSQL
 - NoSQL Databases : MongoDB, Redis
