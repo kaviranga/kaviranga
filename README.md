@@ -20,7 +20,8 @@
 - Relational Databases : MySQL, PostgreSQL, MSSQL
 - NoSQL Databases : MongoDB
 - Keystore : Redis
-- BigData : Hadoop, Hive, Spark, Nifi
+- BigData : Hadoop, Hive, Spark
+- ETL : Nifi
 - Server Analytics : Zabbix
 - Task Handler : Zookeeper
 - Load Balancer : Nginx
