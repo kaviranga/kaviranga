@@ -15,10 +15,12 @@
 - GP Languages : C, C++, Java, PHP
 - Scripting Languages : Shell Script, Java Script
 - Web Frameworks : Laravel, Play
+- ORM frameworks : Hibernate, Slick , Eloquent 
 - Frontend Frameworks : JQuery, Bootstrap, React, Vue
 - Relational Databases : MySQL, PostgreSQL, MSSQL
-- NoSQL Databases : MongoDB, Redis
-- BigData : Hadoop, Hive, Spark
+- NoSQL Databases : MongoDB
+- Keystore : Redis
+- BigData : Hadoop, Hive, Spark, Nifi
 - Server Analytics : Zabbix
 - Task Handler : Zookeeper
 - Load Balancer : Nginx
