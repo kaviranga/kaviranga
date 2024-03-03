@@ -9,31 +9,6 @@
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" />
 
 
-
-
-
-
-
-------------------------------
-
-### I have worked with
-- Operating Systems : Windows, Linux 
-- GP Languages : C, C++, Java, PHP
-- Scripting Languages : Shell Script, Java Script
-- Web Frameworks : Laravel, Play
-- ORM Frameworks : Hibernate, Slick , Eloquent 
-- Frontend Frameworks : JQuery, Bootstrap, React, Vue
-- Relational Databases : MySQL, PostgreSQL, MSSQL
-- NoSQL Databases : MongoDB
-- Keystore : Redis
-- BigData : Hadoop, Hive, Spark
-- ETL : Nifi
-- Server Analytics : Zabbix
-- Task Handler : Zookeeper
-- Load Balancer : Nginx
-
-------------------------------
-
 <!--
 **kaviranga/kaviranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
