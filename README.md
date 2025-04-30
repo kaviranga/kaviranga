@@ -1,6 +1,6 @@
 <!--- ### Hi ! , I'm Duminda Kaviranga Gunawardhana 👋 --->
 
-#### [![kaviranga's header](https://github.com/kaviranga/kaviranga/blob/main/images/header_image.png)](https://github.com/kaviranga/kaviranga/)
+<!--- ### [![kaviranga's header](https://github.com/kaviranga/kaviranga/blob/main/images/header_image.png)](https://github.com/kaviranga/kaviranga/) --->
 
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />  
 
