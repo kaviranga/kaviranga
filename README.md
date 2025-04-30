@@ -2,13 +2,13 @@
 
 <!--- ### [![kaviranga's header](https://github.com/kaviranga/kaviranga/blob/main/images/header_image.png)](https://github.com/kaviranga/kaviranga/) --->
 
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />  
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />  
 
 <!-- ### Languages are used in those repos --->
 
 </br>
 
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" />
 
 
 
