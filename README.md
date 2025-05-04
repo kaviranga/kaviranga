@@ -1,4 +1,4 @@
-### Hi ! , I'm Duminda Kaviranga Gunawardhana 👋 
+### Hi ! , I'm Kaviranga 👋 
 Working As a Programmer | Systems Analyst | Embedded Systems Developer 
 
 <!--- ### [![kaviranga's header](https://github.com/kaviranga/kaviranga/blob/main/images/header_image.png)](https://github.com/kaviranga/kaviranga/) --->
