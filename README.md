@@ -5,10 +5,10 @@ Working As a Programmer | Systems Analyst | Embedded Systems Developer
 
 <!--<div style="display: flex; flex-direction: row;">-->
 <div class='container'>
-   <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />
+   <img align="center" style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />
           &nbsp;
           &nbsp;
-   <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" />
+   <img align="center" style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" />
 </div>
 
 
