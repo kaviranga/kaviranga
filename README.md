@@ -3,14 +3,15 @@ Working As a Programmer | Systems Analyst | Embedded Systems Developer
 
 <!--- ### [![kaviranga's header](https://github.com/kaviranga/kaviranga/blob/main/images/header_image.png)](https://github.com/kaviranga/kaviranga/) --->
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />  
+<div style="display: flex; flex-direction: row;">
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />  
 
-<!-- ### Languages are used in those repos --->
+      <!-- ### Languages are used in those repos --->
+      
+      </br>
 
-</br>
-
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" />
-
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" />
+</div>
 
 
 
