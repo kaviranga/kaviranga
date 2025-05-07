@@ -4,9 +4,9 @@ Working As a Programmer | Systems Analyst | Embedded Systems Developer
 <!--- ### [![kaviranga's header](https://github.com/kaviranga/kaviranga/blob/main/images/header_image.png)](https://github.com/kaviranga/kaviranga/) --->
 
 <div style="display: flex; flex-direction: row;">
-   <img class="img" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />
+   <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />
 
-   <img class="img" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" />
+   <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" />
 </div>
 
 
