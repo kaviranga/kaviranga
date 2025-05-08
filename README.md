@@ -1,5 +1,5 @@
 ### Hi ! , I'm Kaviranga 👋 
-                                                                  Programmer | Systems Analyst | Embedded Systems Developer 
+                                                            Programmer | Systems Analyst | Embedded Systems Developer 
 
 <!--- ### [![kaviranga's header](https://github.com/kaviranga/kaviranga/blob/main/images/header_image.png)](https://github.com/kaviranga/kaviranga/) --->
 
