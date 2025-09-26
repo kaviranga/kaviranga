@@ -26,7 +26,7 @@
 - Operating Systems : Windows, Linux 
 - GP Languages : C, C++, Java, PHP
 - Scripting Languages : Shell Script, Java Script
-- Web Frameworks : Laravel, Play
+- Backend Frameworks : Laravel, Play
 - ORM Frameworks : Hibernate, Slick , Eloquent 
 - Frontend Frameworks : JQuery, Bootstrap, React, Vue
 - Relational Databases : MySQL, PostgreSQL, MSSQL
