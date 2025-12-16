@@ -15,63 +15,24 @@
 
 ---
 
-### 💼 <sub>I have worked with</sub>
+## 💼 I have worked with
 
-### 🖥️ <sub>Operating Systems</sub>
-- Windows  
-- Linux  
-
-### 💻 <sub>Programming Languages</sub>
-- C  
-- C++  
-- Java  
-- PHP  
-
-### 📜 <sub>Scripting Languages</sub>
-- Shell Script  
-- JavaScript  
-
-### ⚙️ <sub>Backend Frameworks</sub>
-- Laravel  
-- Play Framework  
-
-### 🗄️ <sub>ORM Frameworks</sub>
-- Hibernate  
-- Slick  
-- Eloquent  
-
-### 🎨 <sub>Frontend Frameworks</sub>
-- jQuery  
-- Bootstrap  
-- React  
-- Vue  
-
-### 🗃️ <sub>Databases</sub>
-**Relational**
-- MySQL  
-- PostgreSQL  
-- MSSQL  
-
-**NoSQL**
-- MongoDB  
-
-### 🔑 <sub>Caching / Keystore</sub>
-- Redis  
-
-### 📊 <sub>Big Data & ETL</sub>
-- Hadoop  
-- Hive  
-- Spark  
-- NiFi  
-
-### 📈 <sub>Monitoring & Analytics</sub>
-- Zabbix  
-
-### ⚡ <sub>Task Handling</sub>
-- Zookeeper  
-
-### 🌐 <sub>Load Balancer</sub>
-- Nginx  
+| Category | Technologies |
+|--------|-------------|
+| 🖥️ Operating Systems | Windows, Linux |
+| 💻 Programming Languages | C, C++, Java, PHP |
+| 📜 Scripting Languages | Shell Script, JavaScript |
+| ⚙️ Backend Frameworks | Laravel, Play Framework |
+| 🗄️ ORM Frameworks | Hibernate, Slick, Eloquent |
+| 🎨 Frontend Frameworks | jQuery, Bootstrap, React, Vue |
+| 🗃️ Databases (Relational) | MySQL, PostgreSQL, MSSQL |
+| 🗃️ Databases (NoSQL) | MongoDB |
+| 🔑 Caching / Keystore | Redis |
+| 📊 Big Data & ETL | Hadoop, Hive, Spark, NiFi |
+| 📈 Monitoring & Analytics | Zabbix |
+| ⚡ Task Handling | Zookeeper |
+| 🌐 Load Balancer | Nginx |
+  
 
 ---
 
