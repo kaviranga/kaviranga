@@ -17,7 +17,9 @@
 
 ## 💼 I have worked with
 
-<img align="right" width="150" src="https://images.credly.com/size/680x680/images/05f93748-5005-4f87-b0d4-ce02e0a4edaa.png" />
+<a href="https://www.credly.com/badges/05f93748-5005-4f87-b0d4-ce02e0a4edaa" target="_blank">
+  <img align="right" width="150" src="https://images.credly.com/size/680x680/images/05f93748-5005-4f87-b0d4-ce02e0a4edaa.png" />
+</a>
 
 | Category | Technologies |
 |--------|--------------|
@@ -36,7 +38,6 @@
 | 🌐 Load Balancer | Nginx |
 
 <br clear="right"/>
-
 ---
 
 <!--
