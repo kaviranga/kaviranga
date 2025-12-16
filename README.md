@@ -15,7 +15,7 @@
 
 ---
 
-## 💼 I have worked with
+### 💼 I have worked with
 
 | Category | Technologies |
 |--------|-------------|
