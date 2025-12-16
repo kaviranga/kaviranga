@@ -15,10 +15,12 @@
 
 ---
 
-### 💼 I have worked with
+## 💼 I have worked with
+
+<img align="right" width="150" src="https://images.credly.com/size/680x680/images/05f93748-5005-4f87-b0d4-ce02e0a4edaa.png" />
 
 | Category | Technologies |
-|--------|-------------|
+|--------|--------------|
 | 🖥️ Operating Systems | Windows, Linux |
 | 💻 Programming Languages | C, C++, Java, PHP |
 | 📜 Scripting Languages | Shell Script, JavaScript |
@@ -32,7 +34,8 @@
 | 📈 Monitoring & Analytics | Zabbix |
 | ⚡ Task Handling | Zookeeper |
 | 🌐 Load Balancer | Nginx |
-  
+
+<br clear="right"/>
 
 ---
 
