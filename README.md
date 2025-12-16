@@ -1,57 +1,86 @@
-### Hi ! , I'm Kaviranga 👋 
+## Hi!, I'm Kaviranga 👋  
 
-### Programmer | Systems Analyst | Embedded Systems Developer 
+### Programmer | Systems Analyst | Embedded Systems Developer  
 
-<!--- ### [![kaviranga's header](https://github.com/kaviranga/kaviranga/blob/main/images/header_image.png)](https://github.com/kaviranga/kaviranga/) --->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" width="420" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" width="320" />
+    </td>
+  </tr>
+</table>
 
-<!--<div style="display: flex; flex-direction: row;">-->
-<div class='container'>
-   <img align="center" style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaviranga&theme=vue&show_icons=true" />
-          &nbsp;
-          &nbsp;
-   <img align="center" style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaviranga&layout=compact&theme=vue&show_icons=true" />
-</div>
+---
 
+## 💼 I have worked with
 
+### 🖥️ Operating Systems
+- Windows  
+- Linux  
 
+### 💻 Programming Languages
+- C  
+- C++  
+- Java  
+- PHP  
 
+### 📜 Scripting Languages
+- Shell Script  
+- JavaScript  
 
+### ⚙️ Backend Frameworks
+- Laravel  
+- Play Framework  
 
+### 🗄️ ORM Frameworks
+- Hibernate  
+- Slick  
+- Eloquent  
 
+### 🎨 Frontend Frameworks
+- jQuery  
+- Bootstrap  
+- React  
+- Vue  
 
+### 🗃️ Databases
+**Relational**
+- MySQL  
+- PostgreSQL  
+- MSSQL  
 
-------------------------------
+**NoSQL**
+- MongoDB  
 
-### I have worked with
-- Operating Systems : Windows, Linux 
-- GP Languages : C, C++, Java, PHP
-- Scripting Languages : Shell Script, Java Script
-- Backend Frameworks : Laravel, Play
-- ORM Frameworks : Hibernate, Slick , Eloquent 
-- Frontend Frameworks : JQuery, Bootstrap, React, Vue
-- Relational Databases : MySQL, PostgreSQL, MSSQL
-- NoSQL Databases : MongoDB
-- Keystore : Redis
-- BigData : Hadoop, Hive, Spark
-- ETL : Nifi
-- Server Analytics : Zabbix
-- Task Handler : Zookeeper
-- Load Balancer : Nginx
+### 🔑 Caching / Keystore
+- Redis  
 
-------------------------------
+### 📊 Big Data & ETL
+- Hadoop  
+- Hive  
+- Spark  
+- NiFi  
 
+### 📈 Monitoring & Analytics
+- Zabbix  
+
+### ⚡ Task Handling
+- Zookeeper  
+
+### 🌐 Load Balancer
+- Nginx  
+
+---
 
 <!--
-**kaviranga/kaviranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kaviranga/kaviranga** is a special repository because its README.md appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Ideas to add later:
+- 🔭 Currently working on ...
+- 🌱 Currently learning ...
+- 👯 Looking to collaborate on ...
+- 📫 How to reach me ...
 -->
