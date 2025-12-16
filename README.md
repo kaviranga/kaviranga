@@ -15,38 +15,38 @@
 
 ---
 
-#### 💼 <sub>I have worked with</sub>
+### 💼 <sub>I have worked with</sub>
 
-#### 🖥️ <sub>Operating Systems</sub>
+### 🖥️ <sub>Operating Systems</sub>
 - Windows  
 - Linux  
 
-#### 💻 <sub>Programming Languages</sub>
+### 💻 <sub>Programming Languages</sub>
 - C  
 - C++  
 - Java  
 - PHP  
 
-#### 📜 <sub>Scripting Languages</sub>
+### 📜 <sub>Scripting Languages</sub>
 - Shell Script  
 - JavaScript  
 
-#### ⚙️ <sub>Backend Frameworks</sub>
+### ⚙️ <sub>Backend Frameworks</sub>
 - Laravel  
 - Play Framework  
 
-#### 🗄️ <sub>ORM Frameworks</sub>
+### 🗄️ <sub>ORM Frameworks</sub>
 - Hibernate  
 - Slick  
 - Eloquent  
 
-#### 🎨 <sub>Frontend Frameworks</sub>
+### 🎨 <sub>Frontend Frameworks</sub>
 - jQuery  
 - Bootstrap  
 - React  
 - Vue  
 
-#### 🗃️ <sub>Databases</sub>
+### 🗃️ <sub>Databases</sub>
 **Relational**
 - MySQL  
 - PostgreSQL  
@@ -55,22 +55,22 @@
 **NoSQL**
 - MongoDB  
 
-#### 🔑 <sub>Caching / Keystore</sub>
+### 🔑 <sub>Caching / Keystore</sub>
 - Redis  
 
-#### 📊 <sub>Big Data & ETL</sub>
+### 📊 <sub>Big Data & ETL</sub>
 - Hadoop  
 - Hive  
 - Spark  
 - NiFi  
 
-#### 📈 <sub>Monitoring & Analytics</sub>
+### 📈 <sub>Monitoring & Analytics</sub>
 - Zabbix  
 
-#### ⚡ <sub>Task Handling</sub>
+### ⚡ <sub>Task Handling</sub>
 - Zookeeper  
 
-#### 🌐 <sub>Load Balancer</sub>
+### 🌐 <sub>Load Balancer</sub>
 - Nginx  
 
 ---
